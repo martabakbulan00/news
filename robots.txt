@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martabakbulan00.github.io/news/sitemap.xml
